@@ -1,4 +1,4 @@
-module xgit.xiaoniangao.cn/xngo/lib/xconf
+module github.com/felix-xqs/conf
 
 go 1.12
 
